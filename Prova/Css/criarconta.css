@@ -8,6 +8,7 @@ label{
     color: white;
 }
 .container{
+    display : flex
     position: relative;
     padding: 0%;
     align-content: center;
@@ -36,7 +37,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    z-index: 100;
+    
 }
 nav a{
     position: relative;
